@@ -8,6 +8,8 @@ const movies = [
 	'How to train your dragon',
 	'Step Brothers',
 	'The Fundamentals of caring',
+	'Ice Age 3',
+	'Rocky 2',
 ];
 
 document.querySelector('.submit').onclick = () => {
