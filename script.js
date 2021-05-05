@@ -7,6 +7,7 @@ const movies = [
 	'The Fantastic Mr Fox',
 	'How to train your dragon',
 	'Step Brothers',
+	'The Fundamentals of caring',
 ];
 
 document.querySelector('.submit').onclick = () => {
